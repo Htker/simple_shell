@@ -5,6 +5,11 @@
 #include <sys/wait.h>
 #include <string.h>
 
+/**
+ * main - prints the environment
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	size_t buf_size = 0;
